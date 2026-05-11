@@ -1,0 +1,15 @@
+Column,Description,Type,Values
+RowNumber,Row number,Number,1-10000
+CustomerId,Unique ID,Number,Unique
+Surname,Customer surname,Text,-
+CreditScore,Credit score,Number,300-850
+Geography,Country,Text,France/Spain/Germany
+Gender,Gender,Text,Male/Female
+Age,Age,Number,18-92
+Tenure,Years with bank,Number,0-10
+Balance,Account balance,Number,0-250000
+NumOfProducts,Products used,Number,01-Apr
+HasCrCard,Has credit card,Binary,0/1
+IsActiveMember,Active member,Binary,0/1
+EstimatedSalary,Salary estimate,Number,0-200000
+Exited,Left bank?,Binary,"0=No, 1=Yes"
