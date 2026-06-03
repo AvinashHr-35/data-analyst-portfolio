@@ -4,7 +4,7 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 Focused on healthcare and financial analytics.
 
  avinashsaini56789@gmail.com | Gurugram, India
- [LinkedIn](linkedin.com/in/avinash-saini-data/) |  [GitHub](https://github.com/AvinashHr-35)
+ [LinkedIn](https://www.linkedin.com/in/avinash-saini-data/) |  [GitHub](https://github.com/AvinashHr-35)
 
 ---
 
