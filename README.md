@@ -8,7 +8,7 @@ Focused on healthcare and financial analytics.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn) | SQL  
 **BI Tools:** Power BI | DAX | Excel  
@@ -16,9 +16,9 @@ Focused on healthcare and financial analytics.
 
 ---
 
-## 📁 Projects
+##  Projects
 
-### 1. 🏥 Hospital Readmission Analysis
+### 1.  Hospital Readmission Analysis
 > Predicting 30-day patient readmissions using XGBoost on 101,745 patient records
 
 - **Tools:** Python, SQL, Excel, Power BI
@@ -26,18 +26,18 @@ Focused on healthcare and financial analytics.
 - **Key Finding:** Discharge disposition is strongest predictor (SHAP analysis)
 - **Business Impact:** Identified high-risk patient segments for targeted intervention
 
-📂 [View Project](./Project1_hospital_readmission/)
+ [View Project](./Project1_hospital_readmission/)
 
 ---
 
-### 2. 💳 Bank Customer Exit & Revenue Analysis
+### 2.  Bank Customer Exit & Revenue Analysis
 > Analyzing churn patterns across 10,000 customers — 6.75 Crore revenue at risk identified
 
 - **Tools:** Python, SQL, Excel, Power BI
 - **Key Finding:** Germany has 2x higher exit rate; 51-60 age group at 56.21% churn
 - **Business Impact:** Retention strategy recommendations with quantified revenue impact
 
-📂 [View Project](./Project2_Finance_BankChurn/)
+ [View Project](./Project2_Finance_BankChurn/)
 
 ---
 
